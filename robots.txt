@@ -9,6 +9,3 @@ Disallow: /?repeat=w3tc
 Disallow: /?p=*
 Disallow: /*?*
 Disallow: /*?
-
-User-agent: Yandex
-Disallow: /
