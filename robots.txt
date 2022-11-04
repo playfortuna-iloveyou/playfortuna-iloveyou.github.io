@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Allow: *.js
+Allow: *.css
+Allow: *.png
+Allow: *.jpg
+Disallow: /cgi-bin/
+Disallow: /fortuna/
+Disallow: /?repeat=w3tc
+Disallow: /?p=*
+Disallow: /*?*
+Disallow: /*?
+
+User-agent: Yandex
+Disallow: /
